@@ -1,2 +1,2 @@
-#git id a version control sysytem.1
-git is a free  software.1
+#git id a version control sysytem.2
+git is a free  software.2
